@@ -1,6 +1,6 @@
 {% set name = "mesa" %}
 {% set version = "3.3.1" %}
-{% set python_min = "3.11" %}
+{% set python_min = "3.12" %}
 
 package:
   name: {{ name|lower }}

@@ -149,7 +149,6 @@ Feedstock Maintainers
 =====================
 
 * [@adamamer20](https://github.com/adamamer20/)
-* [@dmasad](https://github.com/dmasad/)
 * [@jackiekazil](https://github.com/jackiekazil/)
 * [@josk0](https://github.com/josk0/)
 
